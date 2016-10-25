@@ -1,0 +1,9 @@
+References used for project 3:
+
+1. http://stevemorse.org/jcal/latlonbatch.html?direction=reverse
+2. https://www.sqlite.org/lang_datefunc.html
+3. google maps for lat and lon inquiries
+4. http://www.cartogiraffe.com/united+states+of+america/washington/yakima+county/grandview/national+forest+development+road+866/#9,47.026335,-121.33519
+5. http://stackoverflow.com/questions/12142133/how-to-get-first-element-in-a-list-of-tuples
+6. https://regex101.com/
+7. http://pandas.pydata.org/pandas-docs/stable/

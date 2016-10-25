@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm>
+  <node changeset="37473849" id="21505268" lat="47.681693" lon="-122.3213797" timestamp="2016-02-27T00:03:41Z" uid="2601744" user="sctrojan79" version="4" />
+	<node changeset="14913771" id="48487514" lat="48.137675" lon="-122.797411" timestamp="2013-02-04T19:10:58Z" uid="272570" user="Lamoreaux" version="3" />
+	<node changeset="2218780" id="49977472" lat="47.351042" lon="-123.407565" timestamp="2009-08-21T06:12:55Z" uid="147510" user="woodpeck_fixbot" version="2" />
+	<node changeset="17217054" id="51468866" lat="47.0207652" lon="-122.9283681" timestamp="2013-08-04T17:23:13Z" uid="1529630" user="Brad Meteor" version="3" />
+	<node changeset="14776728" id="100743050" lat="47.2381308" lon="-122.4200592" timestamp="2013-01-25T04:45:48Z" uid="97431" user="Dion Dock" version="3" />
+	<node changeset="3015322" id="110871460" lat="47.12848" lon="-122.274393" timestamp="2009-11-02T11:51:31Z" uid="147510" user="woodpeck_fixbot" version="2" />
+	<node changeset="36352696" id="336154106" lat="47.6216018" lon="-122.1330655" timestamp="2016-01-04T06:04:15Z" uid="2812957" user="talapus" version="4" />
+	<node changeset="1743391" id="434691835" lat="47.8901138" lon="-123.718248" timestamp="2009-07-05T20:52:39Z" uid="85280" user="tylerritchie" version="1" />
+	<node changeset="1777753" id="437811607" lat="47.331436" lon="-123.347236" timestamp="2009-07-09T06:08:16Z" uid="85280" user="tylerritchie" version="1" />
+	<node changeset="1783244" id="438347294" lat="47.997379" lon="-122.88867" timestamp="2009-07-09T19:44:04Z" uid="85280" user="tylerritchie" version="1" />
+	<node changeset="1785585" id="439149596" lat="47.625472" lon="-123.916905" timestamp="2009-07-10T05:18:26Z" uid="85280" user="tylerritchie" version="1" />
+	<node changeset="2933577" id="539187214" lat="47.5347514" lon="-122.1095715" timestamp="2009-10-23T22:34:50Z" uid="46220" user="Ethan O'Connor" version="1" />
+	<node changeset="39393813" id="1004971719" lat="47.2903432" lon="-121.4045184" timestamp="2016-05-18T07:49:40Z" uid="3091270" user="skoocoom" version="3" />
+	<node changeset="13842976" id="1522485514" lat="48.4363319" lon="-123.3810963" timestamp="2012-11-12T06:20:07Z" uid="307202" user="alester" version="2" />
+	<node changeset="10984603" id="1675274208" lat="48.5192044" lon="-123.4425561" timestamp="2012-03-15T03:37:56Z" uid="307202" user="alester" version="1" />
+	<node changeset="11905945" id="1788634725" lat="47.7832172" lon="-122.1986796" timestamp="2012-06-15T15:22:58Z" uid="53479" user="bdp" version="1" />
+	<node changeset="14801571" id="2130147826" lat="48.1428881" lon="-122.7744539" timestamp="2013-01-27T01:14:22Z" uid="23762" user="Heptazane" version="1" />
+	<node changeset="15719072" id="2266467980" lat="47.6798679" lon="-122.3879666" timestamp="2013-04-14T00:05:48Z" uid="447903" user="Glassman" version="1" />
+	<node changeset="15925348" id="2287103224" lat="48.3997498" lon="-122.3170356" timestamp="2013-04-30T19:57:51Z" uid="447903" user="Glassman" version="1" />
+	<node changeset="16088350" id="2300322786" lat="47.6797939" lon="-122.2905743" timestamp="2013-05-12T00:57:16Z" uid="1382179" user="SeattleImport" version="1" />
+	<node changeset="16161180" id="2307216221" lat="47.6509582" lon="-122.3993036" timestamp="2013-05-17T02:29:18Z" uid="1382179" user="SeattleImport" version="1" />
+	<node changeset="16243423" id="2316275884" lat="47.693344" lon="-122.3371792" timestamp="2013-05-22T19:58:09Z" uid="1382179" user="SeattleImport" version="1" />
+	<node changeset="16385791" id="2328835420" lat="47.6307401" lon="-122.2809527" timestamp="2013-06-02T02:47:55Z" uid="519645" user="jeffmeyer" version="1" />
+	<node changeset="16594650" id="2349818171" lat="47.6296007" lon="-122.3549158" timestamp="2013-06-17T19:23:45Z" uid="692614" user="seattlefyi" version="1" />
+	<node changeset="16798365" id="2371343838" lat="47.5536511" lon="-122.2931711" timestamp="2013-07-02T21:59:29Z" uid="447903" user="Glassman" version="1" />
+	<node changeset="16944633" id="2383892478" lat="47.6243392" lon="-122.3118264" timestamp="2013-07-14T05:44:27Z" uid="447903" user="Glassman" version="1" />
+	<node changeset="17144664" id="2400867526" lat="47.626835" lon="-122.3478087" timestamp="2013-07-29T20:37:38Z" uid="692614" user="seattlefyi" version="1" />
+	<node changeset="17477332" id="2429615553" lat="47.5576285" lon="-122.2881137" timestamp="2013-08-23T23:04:25Z" uid="447903" user="Glassman" version="1" />
+	<node changeset="17689942" id="2447268169" lat="47.5232932" lon="-122.375155" timestamp="2013-09-05T16:00:20Z" uid="447903" user="Glassman" version="1" />
+	<node changeset="18610763" id="2513494261" lat="47.7509393" lon="-122.3590024" timestamp="2013-10-30T00:57:52Z" uid="567792" user="Natfoot" version="1" />
+	<node changeset="20550007" id="2670823330" lat="47.2131452" lon="-122.2411961" timestamp="2014-02-13T23:12:32Z" uid="1340045" user="STBrenden" version="1" />
+	<node changeset="23113886" id="2930445566" lat="47.623275" lon="-122.5136045" timestamp="2014-06-24T02:08:14Z" uid="461624" user="skyboysea" version="1" />
+	<node changeset="26581014" id="3169300044" lat="48.4327089" lon="-122.2838336" timestamp="2014-11-05T21:32:16Z" uid="447903" user="Glassman" version="1" />
+	<node changeset="28570667" id="3327172585" lat="47.7067711" lon="-122.2463263" timestamp="2015-02-02T16:44:03Z" uid="2604212" user="Glassman_Import" version="1" />
+	<node changeset="28741222" id="3340901710" lat="47.6919669" lon="-122.1659175" timestamp="2015-02-10T00:24:57Z" uid="2604212" user="Glassman_Import" version="1" />
+	<node changeset="29965487" id="3436477207" lat="48.437879" lon="-123.3846036" timestamp="2015-04-04T05:42:32Z" uid="307202" user="alester" version="1" />
+	<node changeset="32893316" id="3667485206" lat="48.2118266" lon="-121.997788" timestamp="2015-07-26T17:42:33Z" uid="1529630" user="Brad Meteor" version="1" />
+	<node changeset="34472443" id="3775221917" lat="47.4939869" lon="-122.1869483" timestamp="2015-10-06T16:20:26Z" uid="239998" user="Sundance" version="1" />
+	<node changeset="37024438" id="3990657024" lat="47.2714114" lon="-121.9368357" timestamp="2016-02-05T17:20:20Z" uid="447903" user="Glassman" version="1" />
+	<node changeset="40049716" id="4245191951" lat="47.6394902" lon="-122.3734036" timestamp="2016-06-15T22:57:43Z" uid="2814663" user="Ballard OpenStreetMap" version="1" />
+	<node changeset="42400505" id="4416044666" lat="48.4661668" lon="-122.3401747" timestamp="2016-09-24T07:50:30Z" uid="1817244" user="Helmchen42" version="1" />
+	<way changeset="4195800" id="53037960" timestamp="2010-03-21T20:18:59Z" uid="121241" user="zephyr" version="1">
+		<nd ref="671688274" />
+		<nd ref="671688276" />
+		<nd ref="671688278" />
+		<nd ref="671688284" />
+		<nd ref="671688274" />
+		<tag k="sport" v="basketball" />
+		<tag k="source" v="yahoo_wms" />
+		<tag k="leisure" v="pitch" />
+	</way>
+	<way changeset="16311577" id="223293512" timestamp="2013-05-27T15:50:18Z" uid="699288" user="alester_imports" version="1">
+		<nd ref="2322055349" />
+		<nd ref="2322055516" />
+		<tag k="source" v="NRCan-CanVec-10.0" />
+		<tag k="addr:interpolation" v="odd" />
+	</way>
+	<way changeset="23961010" id="290793245" timestamp="2014-07-05T03:47:09Z" uid="2140629" user="rambudo" version="2">
+		<nd ref="2943002286" />
+		<nd ref="2943002287" />
+		<nd ref="2943002288" />
+		<nd ref="2943002289" />
+		<nd ref="2943002290" />
+		<nd ref="2943002291" />
+		<nd ref="2943002286" />
+		<tag k="building" v="house" />
+		<tag k="addr:city" v="Mill Creek" />
+		<tag k="addr:street" v="21st Drive Southeast" />
+		<tag k="addr:postcode" v="98012" />
+		<tag k="addr:housenumber" v="15006" />
+	</way>
+	</osm>
